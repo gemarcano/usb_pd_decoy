@@ -4,6 +4,11 @@
 	(generator_version "8.0")
 	(uuid "f81914f8-6fef-4f4a-b351-86de98e54c2d")
 	(paper "A4")
+	(title_block
+		(title "Configurable USB C PD Decoy")
+		(date "2024-06-03")
+		(rev "A")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"
 			(pin_names
